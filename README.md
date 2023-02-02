@@ -13,7 +13,7 @@ This project aims probe the best Python libraries for Data Analysis, Data Visual
 |**PyTorch**|Is a library for deep learning and machine learning. It provides a flexible and intuitive interface for building and training models, and is designed to be easy to use and scalable. PyTorch is often used for tasks such as computer vision, natural language processing, and more.||
 |**OpenCV**|Is a library for computer vision and image processing. It provides a wide range of algorithms for tasks such as object detection, image segmentation, and more. OpenCV is often used in combination with other libraries, such as NumPy, for data analysis, and Matplotlib, for data visualization.||
 |**NLTK**|Is a library for natural language processing. It provides a wide range of algorithms and tools for tasks such as tokenization, stemming, and named entity recognition. NLTK is often used in combination with other libraries, such as scikit-learn, for building machine learning models.||
-|**Scrapy**|Is a library for web crawling and data scraping. It provides a simple and efficient way to extract data from websites and store it in a structured format. Scrapy is often used for tasks such as data collection, data cleaning, and more.|QuoteSpider|
+|**Scrapy**|Is a library for web crawling and data scraping. It provides a simple and efficient way to extract data from websites and store it in a structured format. Scrapy is often used for tasks such as data collection, data cleaning, and more.|QuoterSpider|
 
 **It is important to note that the best libraries for a specific task may depend on the specific requirements and needs**.
 
